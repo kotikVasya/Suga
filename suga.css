@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Shantell+Sans&display=swap');
+body{
+    background-color: rgb(117, 104, 77);
+    font-family: 'Shantell Sans', cursive;
+}
+img{
+    width: 250px;
+    height: 250px;
+    overflow: hidden;
+    border-radius: 10px;
+    transition: all 1000ms ease;
+    border: 5px solid rgb(0, 0, 0);
+}
+.container{
+    width: 75%;
+    margin: 0 auto;
+}
+.suga{
+    
+}
+p{
+    max-width: 600px;
+    font-size: 20px;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+.Text{
+    max-width: 1000px;
+}
